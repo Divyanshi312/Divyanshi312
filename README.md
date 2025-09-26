@@ -3,6 +3,7 @@
 🎓 CSE 2nd Year @ KIET  
 💻 Learning Java, App Development & DSA  
 🔗 [LeetCode](https://leetcode.com/Divyanshi_khemani)
+ [LinkedIn](https://www.linkedin.com/in/divyanshi-khemani-2a12b2328/)
 
 ## 🔧 Skills
 - Java (Basics, OOP concepts)
