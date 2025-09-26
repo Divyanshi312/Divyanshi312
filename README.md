@@ -1,4 +1,6 @@
 # Hi, I'm Divyanshi 👋
+![LeetCode 50-Day Streak](https://img.shields.io/badge/LeetCode-50_Day_Streak-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+
 
 🎓 CSE 2nd Year @ KIET  
 💻 Learning Java, App Development & DSA  
