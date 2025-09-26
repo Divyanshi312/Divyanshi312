@@ -5,10 +5,11 @@
 🔗 [LeetCode](https://leetcode.com/Divyanshi_khemani)
 
 ## 🔧 Skills
-- Java (OOP, Collections)
-- Data Structures & Algorithms (Array, LinkedList, Stack, Queue)
-- Problem Solving on LeetCode
+- Java (Basics, OOP concepts)
+- Problem Solving: Arrays & Strings in Java
+- Learning DSA (LinkedList, Stack, Queue)
 - Learning Android App Development
+
 
 
 ## 🚀 Current Focus
