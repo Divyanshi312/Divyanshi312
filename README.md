@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi, I'm Divyanshi 👋
+
+🎓 CSE 2nd Year @ KIET  
+💻 Learning Java, App Development & DSA  
+🔗 [LeetCode](https://leetcode.com/Divyanshi_khemani)
+
+## 🔧 Skills
+- Java (OOP, Collections)
+- Data Structures & Algorithms (Array, LinkedList, Stack, Queue)
+- Problem Solving on LeetCode
+- Learning Android App Development
+
+
+## 🚀 Current Focus
+- Strengthening DSA in Java
+- Learning Android app development
+- Building small Java & Android projects
+
 
 <!--
 **Divyanshi312/Divyanshi312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
